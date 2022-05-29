@@ -2,6 +2,7 @@
 title: "Life History and Ecology of Bluenose Warehou (Hyperoglyphe antarctica, Centrolophidae) in the Southern Atlantic"
 description: |
   James B. Bell, Vladimir Laptikhovsky, David K.A. Barnes, Ramon Benedet, Amelia E.H. Bridges, James Glass, Warren Glass, Rodney Green, Simon A. Morley, Simon Robertson, Georgia R. Robson, Harry Stanton, Freja Azzopardi, Clive N. Trueman, Oliver Yates & Martin A. Collins
+date: 2021-02-02
 preview: BluenoseWarehou_preview.jpg
 output:
   distill::distill_article:

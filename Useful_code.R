@@ -4,13 +4,13 @@ library(distill)
 create_website()
 
 # create a post for a new paper within the publications tab
-create_post("UKOT_assemblages", collection ='publications') 
-create_post("UKOT_divgrads", collection = 'publications')
-create_post("TdC_bluecarbon", collection = 'publications')
-create_post("Bluenose", collection = 'publications')
+create_post("UKOT_divgrads", collection = 'publications') # don't forget to chage date to the 
+# publication data in the .Rmd YAML heading
 
 # create a new collection
-create_post("Post name", collection = 'collection name')
+create_post("Post name", collection = 'collection name') # don't forget to chage date to the 
+# publication data in the .Rmd YAML heading
+
 # then you also need to put a .Rmd in the repo folder with the title and listing (from the YAML)
 # only, e.g.  title: Publications
 #             listing: publications

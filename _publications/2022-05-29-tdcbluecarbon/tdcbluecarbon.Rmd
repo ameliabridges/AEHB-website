@@ -2,6 +2,7 @@
 title: "Climate Mitigation through Biological Conservation: Extensive and Valuable Blue Carbon Natural Capital in Tristan da Cunha’s Giant Marine Protected Zone"
 description: |
   David K.A. Barnes, James B. Bell, Amelia E. Bridges, Louise Ireland, Kerry L. Howell, Stephanie M. Martin, Chester J. Sands, Alejandra Mora Soto, Terri Souster, Gareth Flint & Simon A. Morley
+date: 2021-12-16
 preview: TdC_bluecarbon_preview.jpg
 output:
   distill::distill_article:

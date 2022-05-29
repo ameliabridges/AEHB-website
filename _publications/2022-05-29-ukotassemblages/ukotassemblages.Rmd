@@ -2,6 +2,7 @@
 title: "Benthic Assemblage Composition of South Atlantic Seamounts"
 description: |
   Amelia E.H. Bridges, David K.A. Barnes, James B. Bell, Rebecca E. Ross & Kerry L. Howell
+date: 2021-10-22
 preview: UKOT_assemblages_preview.jpg
 output:
   distill::distill_article:
