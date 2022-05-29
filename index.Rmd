@@ -25,7 +25,7 @@ I am particularly interested in how to best facilitate the use of predictive mod
 ::: {.floatting}
 
 ```{r , echo=FALSE,out.width='50%', out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics("/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/Images/Paper_figures/SUCS closeup2.jpg")
+knitr::include_graphics("/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/Images/SUCS.jpg")
 ```
 
 I completed my PhD, titled '*Ecological Studies of the South Atlantic Deep Sea to Inform Sustainable Management*', at the University of Plymouth in the UK. This was in collaboration with the Centre for Environment, Fisheries and Aquaculture Science (Cefas), British Antarctic Survey (BAS) and the Norwegian Institute of Marine Research (IMR).
