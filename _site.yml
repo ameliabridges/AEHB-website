@@ -11,6 +11,10 @@ navbar:
       href: publications.html
     - text: "Projects"
       href: projects.html
+    - text: "Consultancy"
+      href: consultancy.html
+    - text: "CV"
+      href: cv.html
     - text: "Press"
       href: press.html
     - icon: fa fa-github

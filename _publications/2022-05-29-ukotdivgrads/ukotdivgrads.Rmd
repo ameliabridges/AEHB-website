@@ -8,13 +8,15 @@ output:
     self_contained: false
 ---
 
+**Link to manuscript: **[Bridges *et al.* (2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14355)
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+::: {.floatting}
+```{r , echo=FALSE,out.width='50%', out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/_publications/2022-05-29-ukotdivgrads/UKOT_divgrads_preview.png")
 ```
-
-**Link to manuscript: **[Bridges *et al,* (2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14355)
 
 # Abstract 
 
 Latitudinal and bathymetric species diversity gradients in the deep sea have been identified, but studies have rarely considered these gradients across hard substratum habitats, such as seamount and oceanic island margins. This study aimed to identify whether the current understanding of latitudinal and bathymetric gradients in α-diversity (species richness) apply to seamount ecosystems, as well as ascertaining whether identifiable trends were present in seamount β-diversity along a bathymetric gradient. Images from 39 transects, collected between 250 and 950 m in the Exclusive Economic Zones of Saint Helena, Ascension Island and Tristan da Cunha, were used to characterise species richness. General linear models were applied to test possible environmental drivers across latitudinal and bathymetric ranges. Regression models were also employed to investigate the β-diversity gradient of species turnover with depth. Transects in temperate latitude had significantly higher species richness than those in the tropics. Surface primary productivity and substrate hardness both had significant positive effects on species richness, and a weak relationship between temperature and species richness was observed. No significant relationship between species richness and depth was detected, but there was significant species turnover with depth. Seamounts and oceanic islands do not conform to established depth–diversity relationships within the depth range studied. However, seamounts and oceanic islands in the South Atlantic do appear to follow a parabolic latitudinal diversity gradient, closely associated with higher productivity in temperate regions.
+
+:::

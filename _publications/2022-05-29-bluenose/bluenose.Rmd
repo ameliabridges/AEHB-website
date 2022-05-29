@@ -8,14 +8,15 @@ output:
     self_contained: false
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 **Link to manuscript: **[Bell *et al.* (2021)](https://www.frontiersin.org/articles/10.3389/fmars.2021.610172/full)
+
+::: {.floatting}
+```{r , echo=FALSE,out.width='50%', out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/_publications/2022-05-29-bluenose/BluenoseWarehou_preview.jpg")
+```
 
 # Abstract 
 
 Bluenose warehou (*Hyperoglyphe antarctica*) is a popular commercial fish in Australia and New Zealand, but its biology and ecology are very poorly known in other regions where it is found. We present here the first life history data for this species from the south Atlantic, focusing upon the exclusive economic zone (EEZ) of the United Kingdom Overseas Territory (UKOT) of Tristan da Cunha (TdC). Here, bluenose is known from several seamounts and island margins, typically occurring in waters between 200 and 1,000 m depth and is the target species of trawl and longline fishery operating since 1997. We use a suite of methods to describe important life history parameters, including length-weight and age-length relationships and size at recruitment, as well as examining commercial longline survey data to uncover habitat preferences of bluenose. This work has formed an important part of the United Kingdom government’s Blue Belt Program in TdC. It has underpinned the development of the first stock assessment for this species in the Atlantic, as well as a range of improved conservation measures for some of the more vulnerable species that occur in these areas, including seabirds and cold-water corals.
 
+:::
