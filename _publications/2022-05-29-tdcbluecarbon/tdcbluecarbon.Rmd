@@ -1,0 +1,20 @@
+---
+title: "Climate Mitigation through Biological Conservation: Extensive and Valuable Blue Carbon Natural Capital in Tristan da Cunha’s Giant Marine Protected Zone"
+description: |
+  David K.A. Barnes, James B. Bell, Amelia E. Bridges, Louise Ireland, Kerry L. Howell, Stephanie M. Martin, Chester J. Sands, Alejandra Mora Soto, Terri Souster, Gareth Flint & Simon A. Morley
+preview: TdC_bluecarbon_preview.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Link to manuscript:** [Barnes *et al.* (2021)](https://www.mdpi.com/2079-7737/10/12/1339)
+
+# Abstract
+
+Carbon-rich habitats can provide powerful climate mitigation if meaningful protection is put in place. We attempted to quantify this around the Tristan da Cunha archipelago Marine Protected Area. Its shallows (<1000 m depth) are varied and productive. The 5.4 km2 of kelp stores ~60 tonnes of carbon (tC) and may export ~240 tC into surrounding depths. In deep-waters we analysed seabed data collected from three research cruises, including seabed mapping, camera imagery, seabed oceanography and benthic samples from mini-Agassiz trawl. Rich biological assemblages on seamounts significantly differed to the islands and carbon storage had complex drivers. We estimate ~2.3 million tC are stored in benthic biodiversity of waters <1000 m, which includes >0.22 million tC that can be sequestered (the proportion of the carbon captured that is expected to become buried in sediment or locked away in skeletal tissue for at least 100 years). Much of this carbon is captured by cold-water coral reefs as a mixture of inorganic (largely calcium carbonate) and organic compounds. As part of its 2020 Marine Protection Strategy, these deep-water reef systems are now protected by a full bottom-trawling ban throughout Tristan da Cunha and representative no take areas on its seamounts. This small United Kingdom Overseas Territory’s reef systems represent approximately 0.8 Mt CO2 equivalent sequestered carbon; valued at >£24 Million GBP (at the UN shadow price of carbon). Annual productivity of this protected standing stock generates an estimated £3 million worth of sequestered carbon a year, making it an unrecognized and potentially major component of the economy of small island nations like Tristan da Cunha. Conservation of near intact habitats are expected to provide strong climate and biodiversity returns, which are exemplified by this MPA.

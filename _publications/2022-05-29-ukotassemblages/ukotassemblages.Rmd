@@ -1,0 +1,20 @@
+---
+title: "Benthic Assemblage Composition of South Atlantic Seamounts"
+description: |
+  Amelia E.H. Bridges, David K.A. Barnes, James B. Bell, Rebecca E. Ross & Kerry L. Howell
+preview: UKOT_assemblages_preview.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Link to manuscript: **[Bridges *et al.* (2021)](https://www.frontiersin.org/articles/10.3389/fmars.2021.660648/full)
+
+# Abstract 
+
+Seamounts and oceanic islands rise from the seafloor and provide suitable habitat for a diverse range of biological assemblages including Vulnerable Marine Ecosystems (VMEs). Whilst they have been the focus of some work globally, there has been little description of the biological and physical environments of seamounts in the South Atlantic Ocean. In this study, we characterized benthic assemblage composition from 13 seamounts and oceanic islands spanning 8–40°S within the exclusive economic zones (EEZs) of Ascension Island, Saint Helena and Tristan da Cunha. Drop camera imagery was collected between 170 and 1000 m. All fauna present in images were identified and quantified, and multivariate statistics were used to describe biological assemblages and identify their environmental drivers. Benthic communities of temperate regions (Tristan da Cunha archipelago) were shown to be distinct from those found in the tropics, with latitude and depth identified as key environmental drivers of assemblage composition. Our results are consistent with the current understanding of the biogeography of the South Atlantic, both in terms of the distinction between tropical and temperate regions, and the influence of depth and water mass structure on assemblage distribution. Faunal assemblages are similar to those observed in the North Atlantic in terms of functional groups. VMEs are present within the EEZs of all three territories and are potentially protected from some threats by large marine protected areas (MPAs). Our imagery, data and analyses provide a baseline for south Atlantic seamounts so that future monitoring can establish whether existing protected status is sufficient to conserve both unique biodiversity and considerable potential for vital ecosystem services.

@@ -1,0 +1,27 @@
+---
+title: "Press"
+description: |
+  Amelia E.H. Bridges, Postdoctoral Benthic Ecologist and National Geographic Explorer
+  
+  amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Journal of Biogeography 
+
+[ECR feature: Amelia Bridges on deep-sea ecological gradients](https://journalofbiogeographynews.org/2022/05/16/ecr-feature-amelia-bridges-on-deep-sea-ecological-gradients/)
+
+# Tristan da Cunha Marine Protection Zone
+
+[University helps UK Overseas Territory become sanctuary for wildlife](https://www.plymouth.ac.uk/news/university-helps-uk-overseas-territory-become-one-of-the-worlds-biggest-sanctuaries-for-wildlife)
+
+[New Atlantic marine sanctuary will be one of world's largest](https://www.nationalgeographic.com/environment/article/tristan-da-cunha-atlantic-marine-protection-zone)
+
+[UK Overseas Territory Becomes One of the World’s Biggest Sanctuaries for Wildlife](https://blog.nationalgeographic.org/2020/11/12/uk-overseas-territory-becomes-one-of-the-worlds-biggest-sanctuaries-for-wildlife/)
