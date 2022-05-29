@@ -1,5 +1,5 @@
 ---
-title: "Press"
+title: "Media"
 description: |
   Amelia E.H. Bridges, Postdoctoral Benthic Ecologist and National Geographic Explorer
   
@@ -8,11 +8,6 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 # Journal of Biogeography 
 
