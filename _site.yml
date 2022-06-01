@@ -1,7 +1,7 @@
 name: "AEHB-website"
-title: "Amelia Elizabeth Henrietta Bridges"
+title: "Amelia E.H. Bridges"
 description: |
-  Amelia Elizabeth Henrietta Bridges
+  Amelia E.H. Bridges
 output_dir: "_site"
 navbar:
   right:

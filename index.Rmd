@@ -1,7 +1,7 @@
 ---
-title: "Amelia Elizabeth Henrietta Bridges"
+title: "Amelia E.H. Bridges"
 description: |
-  Amelia E.H. Bridges, Postdoctoral Benthic Ecologist and National Geographic Explorer
+  Postdoctoral Benthic Ecologist and National Geographic Explorer
   
   amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk
 site: distill::distill_website
