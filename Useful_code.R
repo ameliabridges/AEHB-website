@@ -7,7 +7,7 @@ create_website()
 # Don't forget to resize images to <200 KB. You can do this in Preview > Tools > Adjust Size > Save
 
 # create a post for a new paper within the publications tab
-create_post("UKOT_divgrads", collection = 'publications') # don't forget to chage date to the 
+create_post("NA_HSM", collection = 'publications') # don't forget to chage date to the 
 # publication data in the .Rmd YAML heading
 
 # create a new collection

@@ -1,5 +1,17 @@
 [
   {
+    "path": "publications/2022-06-27-nahsm/",
+    "title": "Performance of deep-sea habitat suitability models assessed using independent data, and implications for use in area-based management",
+    "description": "Kerry L. Howell, Amelia E.H. Bridges, Kyran P. Graves, Louise Allcock, Giulia la Bianca, Carolina Ventura-Costa, Sophie E. Donaldson, Anna-Leena Downie, Thomas Furey, Fergal McGrath, Rebecca E. Ross",
+    "author": [],
+    "date": "2022-05-23",
+    "categories": [],
+    "contents": "\nLink to manuscript available soon: Howell et al.\n(accepted)\n\n\n\n\nAbstract\nMarine spatial management requires accurate data on species and\nhabitat distributions. In the deep sea, these data are lacking. Habitat\nsuitability modelling offers a robust defensible means to fill data\ngaps, provided models are sufficiently reliable. We test the performance\nof published models of two deep-sea habitat-forming taxa at low and high\nresolutions (~1 km and 200 m grid-cell size), across the extended EEZs\nof UK and Ireland. We construct new data-rich models and compare new and\nold estimates of the area of habitat protected, noting changes in the\nprotected area network since 2015. Results of independent validation\nsuggest all published models perform worse than expected considering\noriginal cross-validation results, but model performance is still good\nor fair for Desmophyllum pertusum reef, with poorer performance\nfor Pheronema carpenteri sponge models. High-resolution models\nusing multibeam data out-perform low-resolution GEBCO-based models.\nNewly constructed models are good to excellent according to\ncross-validation. New model spatial predictions reflect published\nmodels, but with a significant reduction in predicted extent. The\ncurrent marine protected area network and the European Union ban on\nbottom trawling below 800m protect 40% and 60% of D. pertusum\nreef-suitable habitat respectively, and 11% and 100% of P.\ncarpenteri suitable habitat respectively within the model domain.\nWe conclude high-resolution models of D. pertusum reef\ndistribution are a useful tool in spatial management. The poorer\nperforming P. carpenteri model indicate areas for more detailed\nstudy. Whilst low-resolution models can provide conservative estimates\nof percentage area-based conservation targets following the\nprecautionary principle, high-resolution sea-floor mapping supports the\ndevelopment of better-performing models.\n\n\n\n\n",
+    "preview": "publications/2022-06-27-nahsm/NA_HSM_preview.jpeg",
+    "last_modified": "2022-06-27T20:00:43+01:00",
+    "input_file": {}
+  },
+  {
     "path": "publications/2022-05-29-ukotdivgrads/",
     "title": "Depth and Latitudinal Gradients of Diversity in Seamount Benthic Communities",
     "description": "Amelia E.H. Bridges, David K.A. Barnes, James B. Bell, Rebecca E. Ross & Kerry L. Howell",

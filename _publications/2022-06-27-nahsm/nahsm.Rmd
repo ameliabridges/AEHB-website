@@ -1,0 +1,22 @@
+---
+title: "Performance of deep-sea habitat suitability models assessed using independent data, and implications for use in area-based management"
+description: |
+  Kerry L. Howell, Amelia E.H. Bridges, Kyran P. Graves, Louise Allcock, Giulia la Bianca, Carolina Ventura-Costa, Sophie E. Donaldson, Anna-Leena Downie, Thomas Furey, Fergal McGrath, Rebecca E. Ross
+date: 2022-05-23
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+**Link to manuscript available soon: Howell *et al*. (accepted)**
+
+::: {.floatting}
+```{r , echo=FALSE,out.width='50%', out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/_publications/2022-06-27-nahsm/NA_HSM_preview.jpeg")
+```
+
+# Abstract 
+
+Marine spatial management requires accurate data on species and habitat distributions. In the deep sea, these data are lacking. Habitat suitability modelling offers a robust defensible means to fill data gaps, provided models are sufficiently reliable. We test the performance of published models of two deep-sea habitat-forming taxa at low and high resolutions (~1 km and 200 m grid-cell size), across the extended EEZs of UK and Ireland. We construct new data-rich models and compare new and old estimates of the area of habitat protected, noting changes in the protected area network since 2015.  Results of independent validation suggest all published models perform worse than expected considering original cross-validation results, but model performance is still good or fair for *Desmophyllum pertusum* reef, with poorer performance for *Pheronema carpenteri* sponge models. High-resolution models using multibeam data out-perform low-resolution GEBCO-based models. Newly constructed models are good to excellent according to cross-validation. New model spatial predictions reflect published models, but with a significant reduction in predicted extent. The current marine protected area network and the European Union ban on bottom trawling below 800m protect 40% and 60% of *D. pertusum* reef-suitable habitat respectively, and 11% and 100% of *P. carpenteri* suitable habitat respectively within the model domain. We conclude high-resolution models of *D. pertusum* reef distribution are a useful tool in spatial management. The poorer performing *P. carpenteri* model indicate areas for more detailed study. Whilst low-resolution models can provide conservative estimates of percentage area-based conservation targets following the precautionary principle, high-resolution sea-floor mapping supports the development of better-performing models.
+
+:::
