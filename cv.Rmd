@@ -54,6 +54,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Publications:
 
+Howell, K.L., **Bridges, A.E.**, Graves, K.P., Allcock, L., la Bianca, G., Ventura-Costa, C., Donaldson, S.E., Downie, A., Furey, T., McGrath, F., Ross, R.E. In press. Performance of deep-sea habitat suitability models assessed using independent data, and implications for use in area-based management. *Marine Environmental Progress Series*.
+
 **Bridges, A.E.**, Barnes, D.K.A., Bell, J.B., Ross, R.E., Howell, K.L. 2022 Depth and latitudinal gradients of diversity in seamount benthic communities. *Journal of Biogeography, 49(5)*, 904-915 [DOI: 10.1111/jbi.14355](https://doi.org/10.1111/jbi.14355)
 
 **Bridges, A.E.**, Barnes, D.K.A., Bell, J.B., Ross, R.E., Howell, K.L. 2021. Benthic community composition of South Atlantic seamounts. *Frontiers in Marine Science, 8*, pp.1530. [DOI: 10.3389/fmars.2021.660648](https://doi.org/10.3389/fmars.2021.660648)
